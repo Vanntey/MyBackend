@@ -1,0 +1,88 @@
+{
+  "category": [
+    {
+      "id": "1",
+      "name": "catery 1",
+      "description": "desc 1"
+    },
+    {
+      "id": "20",
+      "name": "catery 2",
+      "description": "desc 2"
+    },
+    {
+      "id": "3",
+      "name": "cate 2",
+      "description": "desc 2"
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "title": "title 1",
+      "description": "desc 1",
+      "quantity": "10",
+      "price": "100"
+    },
+    {
+      "title": "title 22",
+      "description": "desc 22",
+      "quantity": "22",
+      "price": "222",
+      "id": "2"
+    },
+    {
+      "title": "title 3",
+      "description": "desc 3",
+      "quantity": "30",
+      "price": "300",
+      "id": "3"
+    }
+  ],
+  "posts": [
+    {
+      "house_num": "1333",
+      "street": "2 rue de O Amble",
+      "country": "Cam",
+      "userId": 1,
+      "id": "bef6"
+    },
+    {
+      "id": "6b0a",
+      "house_num": "2424",
+      "street": "2 rue de SiemReab",
+      "country": "Cambodia",
+      "userId": 1
+    },
+    {
+      "id": "9fda",
+      "house_num": "1111",
+      "street": "3 rue",
+      "country": "UK",
+      "userId": 1
+    },
+    {
+      "id": "0b90",
+      "house_num": "1001",
+      "street": "1 rue",
+      "country": "Laos",
+      "userId": 1
+    }
+  ],
+  "addresses": [
+    {
+      "house_num": "dsq",
+      "street": "dsq",
+      "country": "cxeq",
+      "userId": 1,
+      "id": "c601"
+    },
+    {
+      "id": "b866",
+      "house_num": "fjdjlks",
+      "street": "fdsfds",
+      "country": "fdsfsd",
+      "userId": 1
+    }
+  ]
+}
