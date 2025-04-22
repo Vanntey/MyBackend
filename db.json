@@ -32,18 +32,18 @@
   ],
   "addresses": [
     {
-      "house_num": "1422",
-      "street": "2",
-      "country": "Cambodia",
-      "userId": 1,
-      "id": "2"
-    },
-    {
       "id": "1",
       "house_num": "1333",
       "street": "5",
       "country": "Cambodia",
       "userId": 1
+    },
+    {
+      "house_num": "1422",
+      "street": "2",
+      "country": "Cambodia",
+      "userId": 1,
+      "id": "2"
     }
   ]
 }
